@@ -256,3 +256,10 @@
     position: relative;
     display: inline-block;
   }
+  .footer i a{
+    color: #000;
+  }
+  
+  .footer i a:hover{
+    color: #666;
+  }

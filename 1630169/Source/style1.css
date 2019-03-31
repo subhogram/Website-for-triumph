@@ -122,6 +122,13 @@ header nav ul li a:hover{
   min-height: 30px;
   
 }
+.footer i a{
+  color: #000;
+}
+
+.footer i a:hover{
+  color: #666;
+}
 
 .pimg2 .ptext p{
   color: white;
